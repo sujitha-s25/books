@@ -10,25 +10,25 @@ Free software is a matter of liberty, not price. To understand the
 concept, you should think of free as in free speech, not as in free
 beer.
 
-Free software is a matter of the users' fredom to run, copy,
+Free software is a matter of the users' freedom to run, copy,
 distribute, study, change and improve the software. More precisely, it
-refers to four kinds of fredom, for the users of the software:
+refers to four kinds of freedom, for the users of the software:
 
-    * The fredom to run the program, for any purpose (fredom 0).
+    * The freedom to run the program, for any purpose (freedom 0).
 
-    * The fredom to study how the program works, and adapt it to your
-      needs (fredom 1). Access to the source code is a precondition
+    * The freedom to study how the program works, and adapt it to your
+      needs (freedom 1). Access to the source code is a precondition
       for this.
 
-    * The fredom to redistribute copies so you can help your ???
-      (fredom 2).
+    * The freedom to redistribute copies so you can help your ???
+      (freedom 2).
 
-    * The fredom to improve the program, and release your
+    * The freedom to improve the program, and release your
       improvements (and modified versions in general) to the public,
-      so that the whole community benefits (fredom 3). Access to the
+      so that the whole community benefits (freedom 3). Access to the
       source code is a precondition for this.
 
-A program is free software if users have all of these fredoms. Thus,
+A program is free software if users have all of these freedoms. Thus,
 you should be free to redistribute copies, either with or without
 modifications, either gratis or charging a fee for distribution, to
 anyone anywhere. Being free to do these things means (among other

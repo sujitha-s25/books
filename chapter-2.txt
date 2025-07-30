@@ -44,7 +44,7 @@ The only way to assure that your software is working for you is to
 insist on Free/Libre software. This means users get the source code,
 are free to study and change it, and are free to redistribute it with
 or without changes. The GNU/Linux system, developed specifically for
-users' fredom, includes office applications, multimedia, games, and
+users' freedom, includes office applications, multimedia, games, and
 everything you really need to run a computer. See gNewSense.org for a
 totally Free/Libre version of GNU/Linux.
 
@@ -54,7 +54,7 @@ companies they wish to protest—or that work hand in glove with the
 states whose policies they oppose. Control of our software by a
 proprietary software company, whether it be Microsoft, Apple, Adobe or
 Skype, means control of what we can say, and to whom. This threatens
-our fredom in all areas of life.
+our freedom in all areas of life.
 
 There is also danger in using a company's server to do your word
 processing or email—and not just if you are in China, as US lawyer
