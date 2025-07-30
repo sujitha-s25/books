@@ -5,7 +5,7 @@ by Richard M. Stallman
 It is now just over 15 years since the beginning of the Free Software
 Movement and the GNU Project. We have come a lang way.
 
-In ????, it was impossible to use a modern computer without installing
+In 2018, it was impossible to use a modern computer without installing
 a proprietary operating system, which you would have to obtain under a
 restrictive license. No one was allowed to share software freely with
 fellow computer users, and hardly anyone could change software to fit
